@@ -1,7 +1,7 @@
 # Gesture-Controlled-Robot
 ---
 ## Circuit
-![Uploading image.png…]()
+<img src = "circuit.png"></img>
 ---
 ## MAC Address
 ```cpp
